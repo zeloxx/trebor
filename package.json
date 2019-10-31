@@ -1,0 +1,24 @@
+{
+  "name": "trebor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "nodemon --inspect app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeloxx/trebor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeloxx/trebor/issues"
+  },
+  "homepage": "https://github.com/zeloxx/trebor#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
